@@ -316,4 +316,88 @@ Hiddify 是基于 Sing-box 的跨平台代理客户端。
 | Clash 客户端 | 基于 Mihomo 的 GUI 软件 |
 
 
+---
+
+# 新手推荐方案
+
+如果你第一次使用：
+
+## Windows
+
+推荐：
+
+> Clash Verge Rev
+
+
+## macOS
+
+推荐：
+
+> Hiddify 或 Clash Verge Rev
+
+
+## Android
+
+推荐：
+
+> v2rayNG 或 Hiddify
+
+
+## iPhone
+
+推荐：
+
+> Shadowrocket 或 Stash
+
+
+---
+
+# 常见问题
+
+## 为什么节点导入失败？
+
+可能原因：
+
+- 订阅格式错误
+- 客户端不支持该协议
+- 节点已经失效
+
+
+---
+
+## 为什么连接成功但是无法访问？
+
+检查：
+
+1. 是否开启系统代理
+2. 是否选择正确节点
+3. DNS 是否正常
+4. 更新订阅
+
+
+---
+
+# 总结
+
+目前没有一款客户端适合所有用户。
+
+选择建议：
+
+- 想简单使用 → Hiddify
+- 喜欢规则分流 → Clash Verge Rev
+- V2Ray 用户 → v2rayN / v2rayNG
+- 高级用户 → sing-box
+
+根据自己的设备平台和使用需求选择合适客户端，可以获得更稳定和流畅的使用体验。
+
+---
+
+# 相关教程
+
+- [Clash Verge Rev 安装教程](http://127.0.0.1:8000/clash/clash-verge-rev-on-windows/)
+- [v2rayN 安装教程](https://docs.proxyguide.org/v2ray/v2rayN-install/)
+- [v2rayNG 安装教程](https://docs.proxyguide.org/v2ray/v2rayNG-install/)
+- [Hiddify 使用教程](https://docs.proxyguide.org/hiddifyapp/windows/)
+- [sing-box 配置教程](https://docs.proxyguide.org/sing-box/sing-box-install/)
+
 简单理解：
