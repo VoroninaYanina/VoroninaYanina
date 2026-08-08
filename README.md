@@ -1,10 +1,5 @@
 ## 2026 全平台代理客户端推荐指南：Windows、Mac、Linux、Android、iOS 科学上网软件大全 👋
 
----
-title: 2026 全平台代理客户端推荐指南：Windows、macOS、Linux、Android、iOS 科学上网软件大全
-description: 汇总 Windows、macOS、Linux、Android、iOS 平台常用代理客户端，包括 Clash、V2Ray、Sing-box、Hiddify、Shadowrocket 等软件，提供下载安装和配置教程。
----
-
 # 2026 全平台代理客户端推荐指南
 
 随着代理协议和客户端生态不断发展，目前支持 V2Ray、Xray、Sing-box、Mihomo（Clash Meta）等核心的客户端越来越多。
@@ -78,7 +73,7 @@ Clash Verge Rev 是目前 Windows 平台较受欢迎的 Mihomo 客户端。
 
 教程：
 
-- [Clash Verge Rev 安装与使用教程](链接)
+- [Windows 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-rev-on-windows/)
 
 
 ---
@@ -97,18 +92,18 @@ v2rayN 是 Windows 平台经典 V2Ray 客户端。
 - 支持 Xray Core
 - 配置灵活
 
-
 适合：
 
 - V2Ray 用户
 - 高级用户
 
-
 教程：
 
-- [v2rayN 安装与配置教程](链接)
+- [ Windows 平台 v2rayN 安装与配置教程
+](https://docs.proxyguide.org/v2ray/v2rayN-install/)
 
 
+## FlClash
 ---
 
 # macOS 平台代理客户端
@@ -130,10 +125,9 @@ v2rayN 是 Windows 平台经典 V2Ray 客户端。
 - Intel Mac 支持
 - 图形界面友好
 
-
 教程：
 
-- [Clash Verge Rev Mac 安装教程](链接)
+- [Macos 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-rev-on-macos/)
 
 
 ---
@@ -191,7 +185,7 @@ v2rayNG 是 Android 平台常用 V2Ray 客户端。
 
 教程：
 
-- [v2rayNG 安装和使用教程](链接)
+- [v2rayNG 安装和使用教程](https://docs.proxyguide.org/v2ray/v2rayNG-install/)
 
 
 ---
@@ -216,6 +210,10 @@ Hiddify 是基于 Sing-box 的跨平台代理客户端。
 - 界面现代
 - 配置简单
 - 支持多种协议
+
+教程：
+
+- [HiddifyApp (Android) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/android/)
 
 
 ---
@@ -243,6 +241,9 @@ Hiddify 是基于 Sing-box 的跨平台代理客户端。
 
 - iPhone/iPad 用户
 
+教程：
+
+- [iOS 平台 Shadowrocket 安装与配置教程](https://docs.proxyguide.org/ss/Shadowrocket-install/)
 
 ---
 
@@ -263,10 +264,13 @@ Hiddify 是基于 Sing-box 的跨平台代理客户端。
 - Clash 用户迁移
 
 
+教程：
+
+- [iOS 平台 Stash 安装与配置教程](https://docs.proxyguide.org/stash/stash-install/)
+
 ---
 
 # Linux 平台代理客户端
-
 
 ## sing-box
 
@@ -292,6 +296,12 @@ Hiddify 是基于 Sing-box 的跨平台代理客户端。
 
 - Linux 桌面用户
 - 高级用户
+
+教程：
+
+- [Linux 平台 sing-box 安装与配置教程
+](https://docs.proxyguide.org/sing-box/sing-box-install/)
+
 
 
 ---
