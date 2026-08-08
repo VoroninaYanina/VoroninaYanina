@@ -399,5 +399,3 @@ Hiddify 是基于 Sing-box 的跨平台代理客户端。
 - [v2rayNG 安装教程](https://docs.proxyguide.org/v2ray/v2rayNG-install/)
 - [Hiddify 使用教程](https://docs.proxyguide.org/hiddifyapp/windows/)
 - [sing-box 配置教程](https://docs.proxyguide.org/sing-box/sing-box-install/)
-
-简单理解：
