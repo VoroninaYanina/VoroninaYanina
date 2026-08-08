@@ -153,7 +153,7 @@ v2rayU 是 macOS 平台经典 V2Ray 图形客户端。
 
 教程：
 
-- [v2rayU 安装和使用教程](链接)
+- [v2rayU 安装和使用教程](https://docs.proxyguide.org/v2ray/v2rayu-install/)
 
 
 ---
